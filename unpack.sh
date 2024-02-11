@@ -11,7 +11,7 @@ mkdir -p $anUnpacked
 SVIEW_NDK=android-ndk-r12b
 SVIEW_FFMPEG=ffmpeg-4.1.4-android-lgpl
 SVIEW_FREETYPE=freetype-2.6.3-android
-SVIEW_OPENAL=openal-soft-1.17.2-arm7
+SVIEW_OPENAL=openal-soft-1.23.1-arm7
 SVIEW_LIBCONFIG=libconfig-1.4.9-arm7
 SVIEW_PLATFORM=android-26.jar
 SVIEW_BUILD_TOOLS=android-build-tools-26.0.3
